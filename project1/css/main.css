@@ -12,6 +12,7 @@
 }
 .header{
 	padding-bottom: 20px;
+	padding-top: 10px;
 }
 .to{
 	margin-right: 5px;
@@ -24,4 +25,5 @@
 }
 .card{
 	flex-wrap: wrap;
+	width: 98%;
 }
