@@ -1,0 +1,27 @@
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-1 .col-2 .col-3 .col-4 .col-5 .col-6 .col-7 .col-8 .col-9 .col-10 .col-11 .col-12
+{
+	padding-left: 8px;
+	padding-right: 8px;
+	box-sizing: border-box;
+	background-color: green;
+}
+.container{
+	margin: auto;
+	max-width: 976px;
+}
+.col-1{ flex-basis: 8.333%}
+.col-2{ flex-basis: 16.666%}
+.col-3{ flex-basis: 24.999%}
+.col-4{ flex-basis: 33.332%}
+.col-5{ flex-basis: 41.665%}
+.col-6{ flex-basis: 49.998%}
+.col-7{ flex-basis: 58.311%}
+.col-8{ flex-basis: 66.664%}
+.col-9{ flex-basis: 74.997%}
+.col-10{ flex-basis: 83.333%}
+.col-11{ flex-basis: 91.663%}
+.col-12{ flex-basis: 100%}

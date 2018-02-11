@@ -1,0 +1,27 @@
+.ASAP-bar{
+ 	border: 1px solid #E0E0E0;
+ 	text-align: center;
+ 	margin-right: 5px;
+}
+.ASAP{
+	margin-bottom: 0px; 
+}
+.adr{
+	border: 1px solid #E0E0E0;
+	margin-right: 5px;
+}
+.header{
+	padding-bottom: 20px;
+}
+.to{
+	margin-right: 5px;
+}
+.searchBar{
+	min-width: 100%;
+}
+.searchArea{
+	padding-bottom: 30px;
+}
+.card{
+	flex-wrap: wrap;
+}
