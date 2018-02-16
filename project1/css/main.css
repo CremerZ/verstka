@@ -1,29 +1,73 @@
 .ASAP-bar{
  	border: 1px solid #E0E0E0;
  	text-align: center;
- 	margin-right: 5px;
+ 	/*width: 292px;*/
+ 	background-image: url('../media/location.svg');
+ 	background-repeat: no-repeat;
+ 	background-position: left center;
+ 	height: 100%;
+ 	width: 52.66%;
 }
-.ASAP{
-	margin-bottom: 0px; 
+.ASAP_img{
+	float: left;    	
+}
+.ASAP{ 
+	height: 100%;
 }
 .adr{
 	border: 1px solid #E0E0E0;
-	margin-right: 5px;
+	height: 100%;
 }
 .header{
-	padding-bottom: 20px;
-	padding-top: 10px;
+	padding-bottom: 17px;
+	padding-top: 15px;
+	height: 72px;
+	margin-bottom: 20px;
 }
-.to{
-	margin-right: 5px;
+
+.header-content{
+	height: 40px;
 }
+
 .searchBar{
-	min-width: 100%;
+	width: 100%;
+	color: #626262;
+	border-width:0;
+	border-bottom-width: 2px;
+	border-bottom: 1px solid ##E0E0E0;
+	background-color: #fff;
+	background-image: url(../media/Shape.png);
+	background-repeat: no-repeat;
+	padding-left: 22px;
+	padding-top: 15px;
 }
 .searchArea{
 	padding-bottom: 30px;
 }
 .card{
 	flex-wrap: wrap;
-	width: 98%;
+}
+.button{
+	padding: 5PX;
+	background-color: #fff;
+	border: 1px solid #E0E0E0;
+	height: 100%;
+	width: 33.33%;
+	/*width: 65px;*/
+}
+.register{
+	background-color: #000;
+	color: #fff;
+}
+.logo{
+	padding-top: 14px;
+	padding-bottom: 29px;
+	width: 66.666%;
+}
+.button_ASAP{
+	height: 100%;
+	width: 16%;
+}
+.basket{
+	width: 8%;
 }
